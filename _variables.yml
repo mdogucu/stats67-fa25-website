@@ -1,0 +1,61 @@
+author: Mine Dogucu
+institute: University of California Irvine
+department: Department of Statistics
+
+course:
+  code: STATS 67
+  short-title: Stats 4 CS
+  long-title: Introduction to Probability and Statistics for Computer Science
+  term: Fall
+  year: 2025
+  site: "https://www.stats4cs.com/"
+  github-org: "https://github.com/mdogucu?tab=repositories&q=stats67a-fa25&type=&language=&sort="
+  discussion: "https://edstem.org/us/courses/87623"
+  lms: "https://canvas.eee.uci.edu/courses/76405/gradebook"
+  gradescope: "https://www.gradescope.com/courses/1142665"
+  finala: on Fri, Dec 12 at 8:00-10:00am
+  finalb: on Mon, Dec 8 at 1:30-3:30pm	
+  midterm: on Oct 29 during lecture time
+  homework: 11:00 am on Wednesdays
+instructor:
+  name: Dr. Mine Dogucu
+  email: mdogucu@uci.edu
+  website: https://www.minedogucu.com
+  pronoun: she/they
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "M 2:30 - 3:30 pm in person and online"
+  zoom: "https://uci.zoom.us/j/91574899130?jst=3"
+  office : "DBH 2204"
+  
+  
+ta1: 
+  name: Lynn Gao (Lec A)
+  email: "lmgao@uci.edu"
+  pronoun: "she her"
+  photo: "img/ta1.jpeg"
+  audio: "ta1.mp3"
+  office-hours: "Th 4:00 pm - 5:00 pm and F 1:00 pm - 2:00 pm in person and online"
+  office: "DBH 2013"
+  zoom: ""
+  
+  
+ta2: 
+  name: Peter Zhu (Lec B)
+  email: "pwzhu@uci.edu"
+  pronoun: "he/him"
+  photo: "img/ta2.jpeg"
+  audio: "ta2.mp3"
+  office-hours: "Tu 1:30 - 2:30 pm and W 2:00 - 3:00 pm in person and online"
+  office: "DBH 2221"
+  zoom: ""
+  
+ta3: 
+  name: Samahriti Mukherjee 
+  email: "samahrim@uci.edu"
+  pronoun: "she/her"
+  photo: "img/ta3.jpeg"
+  audio: "ta3.mp3"
+
+  
+
