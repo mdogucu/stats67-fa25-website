@@ -16,7 +16,8 @@ toc: true
     <td><input type="checkbox" />Oct 2</td>
     <td> Introduction to Data and Summarizing Data&nbsp; &nbsp; </td>
     <td></td>
-    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/1disb-summarize-data.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a></td>
   </tr>
   
 
