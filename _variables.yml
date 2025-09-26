@@ -35,9 +35,9 @@ ta1:
   pronoun: "she her"
   photo: "img/ta1.jpeg"
   audio: "ta1.mp3"
-  office-hours: "Th 4:00 pm - 5:00 pm and F 1:00 pm - 2:00 pm in person and online"
-  office: "DBH 2013"
-  zoom: ""
+  office-hours: "Th 3:00 pm - 4:00 pm and F 3:00 pm - 4:00 pm in person and online"
+  office: "DBH 2XXX"
+  zoom: "https://uci.zoom.us/j/98487600937"
   
   
 ta2: 
@@ -47,8 +47,8 @@ ta2:
   photo: "img/ta2.jpeg"
   audio: "ta2.mp3"
   office-hours: "Tu 1:30 - 2:30 pm and W 2:00 - 3:00 pm in person and online"
-  office: "DBH 2221"
-  zoom: ""
+  office: "DBH 2013"
+  zoom: "https://uci.zoom.us/j/99485742448"
   
 ta3: 
   name: Samahriti Mukherjee 
