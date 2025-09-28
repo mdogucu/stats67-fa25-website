@@ -158,11 +158,11 @@ Sincerely/Kind regards,
 Your name 
 
 
-## Getting Help from Other People and Generative AI Tools
+### Getting Help from Other People and Generative AI Tools {#sec-ai}
 
 For any assignment other than the midterm, you can receive help from your peers and generative AI tools.
 The midterm is in-person and closed book.
-I would recommend you to use ZotGPT Class Chat if you would like to get help from generative AI.
+I would recommend you to use ZotGPT ClassChat if you would like to get help from generative AI.
 Remember that even though Class Chat is utilized for our own class, generative AI responses can be incorrect.
 Use at your own risk. 
 General rules about getting help from peers and AI-like tools include the following.
