@@ -5,6 +5,6 @@
 
 **Final exam** 
 
-{{< var course.final-a >}} for Lecture A in the same classroom (ICS 174) 
+{{< var course.finala >}} for Lecture A in the same classroom (ICS 174) 
 
-{{< var course.final-b >}} for Lecture B in the same classroom (ICS 174)
+{{< var course.finalb >}} for Lecture B in the same classroom (ICS 174)
