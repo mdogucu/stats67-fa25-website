@@ -18,7 +18,8 @@ course:
   midterm: on Oct 29 during lecture time
   homework: 11:00 am on Wednesdays
   collab: at 4:00 - 6:00 pm on Mondays and Fridays
-  collab-location: https://edstem.org/us/courses/87623/discussion/7059419
+  collab-location: "https://edstem.org/us/courses/87623/discussion/7059419"
+  classchat: "https://classchat.zotgpt.uci.edu/home/class/fNuzV1dClKfqJRCcKv1SczhSr0KHiV0C5gW0"
 instructor:
   name: Dr. Mine Dogucu
   email: mdogucu@uci.edu
