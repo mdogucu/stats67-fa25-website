@@ -1,150 +1,80 @@
 [
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
+    "objectID": "resources.html",
+    "href": "resources.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
-  },
-  {
-    "objectID": "tools.html#textbook",
-    "href": "tools.html#textbook",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
-  },
-  {
-    "objectID": "tools.html#programming-tools",
-    "href": "tools.html#programming-tools",
-    "title": "Stats 4 CS",
-    "section": "Programming Tools",
-    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language."
-  },
-  {
-    "objectID": "tools.html#other-software",
-    "href": "tools.html#other-software",
-    "title": "Stats 4 CS",
-    "section": "Other Software",
-    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for most of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link.\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week10.html",
-    "href": "specific-content/schedule/04-week10.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Dec 1 - Dec 7\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week08.html",
-    "href": "specific-content/schedule/04-week08.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Nov 17 - Nov 23\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week06.html",
-    "href": "specific-content/schedule/04-week06.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Nov 3 - Nov 9\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week04.html",
-    "href": "specific-content/schedule/04-week04.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Oct 20 - 26\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week02.html",
-    "href": "specific-content/schedule/04-week02.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Oct 6 - 12\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nSampling and Study Design    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nReading\n\n\nSections 1.1, 1.3, and 1.4\n\n\n \n\n\n\n\n\n\n\n\n\nIntroduction to Probability    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nDiscussion: Sampling, Study Design, and Probability    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nReading\n\n\nSections 3.1 and 3.2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 2: Study Design, Sampling, and Probability    \n\n\n\n\n \n\n\nOct 15, 11:00 am\n\n\n\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week00.html",
-    "href": "specific-content/schedule/04-week00.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Sep 25 - Sep 28\n Getting Ready for STATS 67\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark stats4cs.com.\n\n\n\n\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nSep 29, 11:00 am\n\n\n\n\n\n\n\nSyllabus Quiz    \n\n\n\n\n \n\n\nSep 29, 11:00 am\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nSep 29, 11:00 am\n\n\n\n\n:::"
-  },
-  {
-    "objectID": "specific-content/policies/03c-late-policy.html",
-    "href": "specific-content/policies/03c-late-policy.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Late work is not accepted except for homework assignments. Every student will be excused ONCE up to 48 hours late submission. You do not need to email the reader (aka grader) about this. For students who have already used their late submission excuse once, then the following late penalty will apply.\nOn homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points. It is recommended that you start working on the homework early and not leave it until the last minute to avoid any technological or personal issues. Starting early would also give you ample opportunity to attend office hours.\nIt is possible that during the quarter, other events may affect your learning. This can be but not limited to sickness, religious holiday, attending a conference, playing professional sports, feeling down, flat tire, roommate issues, canceled/delayed flight, wanting to/needing to travel, or any other reason you can think of. In such cases, you will be excused from two in-class quizzes with no questions asked. You do not need to email me about it. You should still use the course materials online and office hours to catch on the content that you have missed. I would advise you to be mindful of that there are only 2 excused allowances for missing the quizzes. That already makes up about 10% of the quarter. Anything beyond 2 excused absences will be assigned zero. If you have an event going in your life that impacts your learning more than a week then I would advise you to talk to me (without waiting for the end of the quarter) to discuss your options. It’s best to discuss such high impact events during office hours.\nMidterm and final exam are required components of the class and cannot be excused. For any needs regarding these assignments you can discuss it with me in a timely manner.\n\n:::"
-  },
-  {
-    "objectID": "specific-content/policies/03a-assessment.html",
-    "href": "specific-content/policies/03a-assessment.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAfter weekly topics are completed you will be assigned a homework on these topics. You will have until 11:00 am on Wednesdays to finish the homework assignments. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on on Oct 29 during lecture time. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one.\n\n\nFinal Exam\nFinal exam will be held in-person, on Fri, Dec 12 at 8:00-10:00am for Lecture A and on Mon, Dec 8 at 1:30-3:30pm. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one.\n\n:::"
-  },
-  {
-    "objectID": "specific-content/index/01c-week-workflow.html",
-    "href": "specific-content/index/01c-week-workflow.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers \n        \n    \n  \n\n\n\n:::"
-  },
-  {
-    "objectID": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
-    "href": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers \n        \n    \n  \n\n\n\n:::"
+    "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
     "href": "specific-content/index/01a-course-description.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B\n\n:::"
+    "text": "Introduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B"
   },
   {
-    "objectID": "sch-dis-b.html",
-    "href": "sch-dis-b.html",
+    "objectID": "specific-content/index/01b-course-goals.html",
+    "href": "specific-content/index/01b-course-goals.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Date\n\n\nDescription\n\n\nNotes\n\n\nLinks\n\n\n\n\nOct 2\n\n\nIntroduction to Data and Summarizing Data   \n\n\n\n\n \n\n\n\n\nOct 9\n\n\nStudy Design and Intro to Probability   \n\n\n\n\n \n\n\n\n\n:::"
+    "text": "By the end of this course you will be able to:\n\nsummarize data using descriptive statistics and visualizations;\nselect appropriate probability models and estimate models’ parameters;\nmake conclusions about population using sample data, by applying statistical inference techniques;\nuse R for basic probability and statistics tasks."
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "specific-content/policies/03a-assessment.html",
+    "href": "specific-content/policies/03a-assessment.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "UCI Counselling Center\nThe counseling center offers free counseling to students. You do not need health insurance.\n\n\nUCI Basic Needs Center\nUCI Basic Needs Center offers services to UCI students to help them meet their basic needs including food.\n\n\nUCI Dream Center\nThe UCI DREAM Center stands with and serves those impacted by immigration policy.\n\n\nAddressing People in Academia\nThis blog post talks about whom to call Dr., Prof., or Mx. etc..\n\n\nTips on Recommendation Letters for Students and Instructors\nThis blog post provides suggestions on asking for recommendation letters as part of graduate school applications\n\n\n\n\n:::"
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAfter weekly topics are completed you will be assigned a homework on these topics. You will have until 11:00 am on Wednesdays to finish the homework assignments. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\nTLDR; Use tools or people to help you learn BUT acknowledge in detail how this helped your learning.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on on Oct 29 during lecture time. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one.\n\n\nFinal Exam\nFinal exam will be held in-person, on Fri, Dec 12 at 8:00-10:00am for Lecture A and on Mon, Dec 8 at 1:30-3:30pm. You will work individually on the exam. It will be a closed-book exam but you will be given equations. You will not need a calculator and you will not be allowed to use one."
   },
   {
-    "objectID": "people.html",
-    "href": "people.html",
+    "objectID": "specific-content/policies/03c-late-policy.html",
+    "href": "specific-content/policies/03c-late-policy.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Instructor\n Dr. Mine Dogucu\nshe/they\nmdogucu@uci.edu\n\nOffice Hours:  M 2:30 - 3:30 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Lynn Gao (Lec A)\nshe her\nlmgao@uci.edu\n\nOffice Hours:  Th 3:00 pm - 4:00 pm and F 3:00 pm - 4:00 pm in person and online\n DBH 2221\n Zoom\n\n\n\n\n\nTeaching Assistant (TA)\n Peter Zhu (Lec B)\nhe/him\npwzhu@uci.edu\n\nOffice Hours:  Tu 1:30 - 2:30 pm and W 2:00 - 3:00 pm in person and online\n DBH 2013\n Zoom\n\n\n\nTeaching Assistant (TA)\n Samahriti Mukherjee\nshe/her\nsamahrim@uci.edu\n\n\n\n\n:::"
+    "text": "Late work is not accepted except for homework assignments. Every student will be excused ONCE up to 48 hours late submission. You do not need to email the reader (aka grader) about this. For students who have already used their late submission excuse once, then the following late penalty will apply.\nOn homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points. It is recommended that you start working on the homework early and not leave it until the last minute to avoid any technological or personal issues. Starting early would also give you ample opportunity to attend office hours.\nIt is possible that during the quarter, other events may affect your learning. This can be but not limited to sickness, religious holiday, attending a conference, playing professional sports, feeling down, flat tire, roommate issues, canceled/delayed flight, wanting to/needing to travel, or any other reason you can think of. In such cases, you will be excused from two in-class quizzes with no questions asked. You do not need to email me about it. You should still use the course materials online and office hours to catch on the content that you have missed. I would advise you to be mindful of that there are only 2 excused allowances for missing the quizzes. That already makes up about 10% of the quarter. Anything beyond 2 excused absences will be assigned zero. If you have an event going in your life that impacts your learning more than a week then I would advise you to talk to me (without waiting for the end of the quarter) to discuss your options. It’s best to discuss such high impact events during office hours.\nMidterm and final exam are required components of the class and cannot be excused. For any needs regarding these assignments you can discuss it with me in a timely manner."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "specific-content/schedule/04-week09.html",
+    "href": "specific-content/schedule/04-week09.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Welcome to STATS 67 - Introduction to Probability and Statistics for Computer Science in Fall 2025\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B\n:::"
+    "text": "Nov 24 - Nov 30\nTBD"
   },
   {
-    "objectID": "index.html#typical-weekly-workflow",
-    "href": "index.html#typical-weekly-workflow",
+    "objectID": "specific-content/schedule/04-week10.html",
+    "href": "specific-content/schedule/04-week10.html",
     "title": "Stats 4 CS",
-    "section": "Typical Weekly Workflow",
-    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n        \n         Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers"
+    "section": "",
+    "text": "Dec 1 - Dec 7\nTBD"
   },
   {
-    "objectID": "index.html#important-dates",
-    "href": "index.html#important-dates",
+    "objectID": "specific-content/schedule/04-week05.html",
+    "href": "specific-content/schedule/04-week05.html",
     "title": "Stats 4 CS",
-    "section": "Important Dates",
-    "text": "Important Dates\nMidterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)"
+    "section": "",
+    "text": "Oct 27 - Nov 2\nTBD"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week06.html",
+    "href": "specific-content/schedule/04-week06.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Nov 3 - Nov 9\nTBD"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week03.html",
+    "href": "specific-content/schedule/04-week03.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Oct 13 - 19\nTBD"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week00.html",
+    "href": "specific-content/schedule/04-week00.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Sep 25 - Sep 28\n Getting Ready for STATS 67\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nGetting to Know the Course Website    \n\n\nTake time go over the contents of this website, especially read the policies section. Do not forget to bookmark stats4cs.com.\n\n\n\n\n\n\n\n\n\n\n\nIntroduce Yourself to the Teaching Team\n\n\nThe responses to this “quiz” will not be available to your classmates. The quiz is not timed.\n\n\n \n\n\nSep 29, 11:00 am\n\n\n\n\n\n\n\nSyllabus Quiz    \n\n\n\n\n \n\n\nSep 29, 11:00 am\n\n\n\n\n\n\n\nGet Your Tech Ready\n\n\nThe responses to this “quiz” will help us make sure that you are ready for the first class in terms of your tech needs. The quiz is not timed.\n\n\n \n\n\nSep 29, 11:00 am"
   },
   {
     "objectID": "policies.html",
@@ -214,14 +144,14 @@
     "href": "policies.html#subject-to-change",
     "title": "Stats 4 CS",
     "section": "Subject to Change",
-    "text": "Subject to Change\nEverything on the syllabus is subject to change depending on any unexpected circumstances that might arise during the quarter. I hold the right to make modifications in a way to improve the learning process of student(s).\n\n:::"
+    "text": "Subject to Change\nEverything on the syllabus is subject to change depending on any unexpected circumstances that might arise during the quarter. I hold the right to make modifications in a way to improve the learning process of student(s)."
   },
   {
-    "objectID": "sch-dis-a.html",
-    "href": "sch-dis-a.html",
+    "objectID": "sch-dis-b.html",
+    "href": "sch-dis-b.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Date\n\n\nDescription\n\n\nNotes\n\n\nLinks\n\n\n\n\nSep 30\n\n\nIntroduction to Data    \n\n\n\n\n   TA notes\n\n\n\n\nOct 7\n\n\nSummarizing Data and Study Design    \n\n\n\n\n \n\n\n\n\n:::"
+    "text": "Date\n\n\nDescription\n\n\nNotes\n\n\nLinks\n\n\n\n\nOct 2\n\n\nIntroduction to Data and Summarizing Data   \n\n\n\n\n \n\n\n\n\nOct 9\n\n\nStudy Design and Intro to Probability"
   },
   {
     "objectID": "sch-lec.html",
@@ -312,83 +242,153 @@
     "href": "sch-lec.html#final-week",
     "title": "Stats 4 CS",
     "section": "Final Week",
-    "text": "Final Week\n Dec 8 - Dec 12\nTBD\n\n:::"
+    "text": "Final Week\n Dec 8 - Dec 12\nTBD"
   },
   {
-    "objectID": "specific-content/index/01b-course-goals.html",
-    "href": "specific-content/index/01b-course-goals.html",
+    "objectID": "tools.html",
+    "href": "tools.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "By the end of this course you will be able to:\n\nsummarize data using descriptive statistics and visualizations;\nselect appropriate probability models and estimate models’ parameters;\nmake conclusions about population using sample data, by applying statistical inference techniques;\nuse R for basic probability and statistics tasks.\n\n\n:::"
+    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
   },
   {
-    "objectID": "specific-content/index/01d-important-dates.html",
-    "href": "specific-content/index/01d-important-dates.html",
+    "objectID": "tools.html#textbook",
+    "href": "tools.html#textbook",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Midterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)\n\n:::"
+    "text": "OpenIntro We will use the fourth edition of the OpenIntro book by Diez, Çetinkaya-Rundel, Barr. The book is accessible for free. You can choose to pay $0 if you would like to."
   },
   {
-    "objectID": "specific-content/index/01d-important-dates.html#important-dates",
-    "href": "specific-content/index/01d-important-dates.html#important-dates",
+    "objectID": "tools.html#programming-tools",
+    "href": "tools.html#programming-tools",
     "title": "Stats 4 CS",
-    "section": "",
-    "text": "Midterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)\n\n:::"
+    "section": "Programming Tools",
+    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language."
   },
   {
-    "objectID": "specific-content/policies/03b-weights.html",
-    "href": "specific-content/policies/03b-weights.html",
+    "objectID": "tools.html#other-software",
+    "href": "tools.html#other-software",
     "title": "Stats 4 CS",
-    "section": "",
-    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n15%\n\n\n\n\nHomework Assignments\n\n\n35%\n\n\n\n\nMidterm Exam\n\n\n25%\n\n\n\n\nFinal Exam\n\n\n25%\n\n\n\n\n\n:::"
+    "section": "Other Software",
+    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for most of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
   },
   {
-    "objectID": "specific-content/policies/03d-regrade.html",
-    "href": "specific-content/policies/03d-regrade.html",
+    "objectID": "sch-dis-a.html",
+    "href": "sch-dis-a.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For the final exam, you will have 24 hours to request regrading. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email Samahriti Mukherjee and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness.\n\n:::"
+    "text": "Date\n\n\nDescription\n\n\nNotes\n\n\nLinks\n\n\n\n\nSep 30\n\n\nIntroduction to Data    \n\n\n\n\n   TA notes\n\n\n\n\nOct 7\n\n\nSummarizing Data and Study Design    \n\n\n\n\n   TA notes"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Welcome to STATS 67 - Introduction to Probability and Statistics for Computer Science in Fall 2025\nIntroduction to the basic concepts of probability and statistics with discussion of applications to computer science.\nPrerequisite: Math 2B"
+  },
+  {
+    "objectID": "index.html#typical-weekly-workflow",
+    "href": "index.html#typical-weekly-workflow",
+    "title": "Stats 4 CS",
+    "section": "Typical Weekly Workflow",
+    "text": "Typical Weekly Workflow\n\n\n\n\n\n  \n    \n        \n        \n         Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers"
+  },
+  {
+    "objectID": "index.html#important-dates",
+    "href": "index.html#important-dates",
+    "title": "Stats 4 CS",
+    "section": "Important Dates",
+    "text": "Important Dates\nMidterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Instructor\n Dr. Mine Dogucu\nshe/they mdogucu@uci.edu\n\nOffice Hours:  M 2:30 - 3:30 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Lynn Gao (Lec A)\nshe her lmgao@uci.edu\n\nOffice Hours:  Th 3:00 pm - 4:00 pm and F 3:00 pm - 4:00 pm in person and online\n DBH 2221\n Zoom\n\n\n\n\n\nTeaching Assistant (TA)\n Peter Zhu (Lec B)\nhe/him pwzhu@uci.edu\n\nOffice Hours:  Tu 1:30 - 2:30 pm and W 2:00 - 3:00 pm in person and online\n DBH 2013\n Zoom\n\n\n\nTeaching Assistant (TA)\n Samahriti Mukherjee\nshe/her samahrim@uci.edu"
   },
   {
     "objectID": "specific-content/schedule/04-week01.html",
     "href": "specific-content/schedule/04-week01.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Sep 29 - Oct 5\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nIntroduction to STATS 67 and Data    \n\n\nWelcome!!!\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nSection 1.2\n\n\n \n\n\n\n\n\n\n\n\n\nSummarizing Data    \n\n\nDescriptive Statistics and Data Visualizations\n\n\n   \n\n\n\n\n\n\n\n\n\n\nReading\n\n\nChapter 2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 1: First Steps with Data    \n\n\n\n\n   \n\n\nOct 8, 11:00\n\n\n\n\n:::"
+    "text": "Sep 29 - Oct 5\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nIntroduction to STATS 67 and Data    \n\n\nWelcome!!!\n\n\n   \n\n\n\n\n\n\n\n\n\nReading\n\n\nSection 1.2\n\n\n \n\n\n\n\n\n\n\n\n\nSummarizing Data    \n\n\nDescriptive Statistics and Data Visualizations\n\n\n   \n\n\n\n\n\n\n\n\n\n\nReading\n\n\nChapter 2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 1: First Steps with Data    \n\n\n\n\n   \n\n\nOct 8, 11:00"
   },
   {
-    "objectID": "specific-content/schedule/04-week03.html",
-    "href": "specific-content/schedule/04-week03.html",
+    "objectID": "specific-content/schedule/04-week02.html",
+    "href": "specific-content/schedule/04-week02.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Oct 13 - 19\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week05.html",
-    "href": "specific-content/schedule/04-week05.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Oct 27 - Nov 2\nTBD\n\n:::"
+    "text": "Oct 6 - 12\n\n\n\n\n\n\n\nNotes\n\n\nLinks\n\n\nDue\n\n\n\n\n\n\n\nSampling and Study Design    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nReading\n\n\nSections 1.1, 1.3, and 1.4\n\n\n \n\n\n\n\n\n\n\n\n\nIntroduction to Probability    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nDiscussion: Sampling, Study Design, and Probability    \n\n\n\n\n \n\n\n\n\n\n\n\n\n\nReading\n\n\nSections 3.1 and 3.2\n\n\n \n\n\n\n\n\n\n\n\n\nHomework 2: Study Design, Sampling, and Probability    \n\n\n\n\n \n\n\nOct 15, 11:00 am"
   },
   {
     "objectID": "specific-content/schedule/04-week07.html",
     "href": "specific-content/schedule/04-week07.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Nov 10 - 16\nTBD\n\n:::"
-  },
-  {
-    "objectID": "specific-content/schedule/04-week09.html",
-    "href": "specific-content/schedule/04-week09.html",
-    "title": "Stats 4 CS",
-    "section": "",
-    "text": "Nov 24 - Nov 30\nTBD\n\n:::"
+    "text": "Nov 10 - 16\nTBD"
   },
   {
     "objectID": "specific-content/schedule/04-week11.html",
     "href": "specific-content/schedule/04-week11.html",
     "title": "Stats 4 CS",
     "section": "",
-    "text": "Dec 8 - Dec 12\nTBD\n\n:::"
+    "text": "Dec 8 - Dec 12\nTBD"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week04.html",
+    "href": "specific-content/schedule/04-week04.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Oct 20 - 26\nTBD"
+  },
+  {
+    "objectID": "specific-content/schedule/04-week08.html",
+    "href": "specific-content/schedule/04-week08.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Nov 17 - Nov 23\nTBD"
+  },
+  {
+    "objectID": "specific-content/policies/03d-regrade.html",
+    "href": "specific-content/policies/03d-regrade.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For the final exam, you will have 24 hours to request regrading. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email Samahriti Mukherjee and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
+  },
+  {
+    "objectID": "specific-content/policies/03b-weights.html",
+    "href": "specific-content/policies/03b-weights.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n15%\n\n\n\n\nHomework Assignments\n\n\n35%\n\n\n\n\nMidterm Exam\n\n\n25%\n\n\n\n\nFinal Exam\n\n\n25%"
+  },
+  {
+    "objectID": "specific-content/index/01d-important-dates.html",
+    "href": "specific-content/index/01d-important-dates.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Midterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)"
+  },
+  {
+    "objectID": "specific-content/index/01d-important-dates.html#important-dates",
+    "href": "specific-content/index/01d-important-dates.html#important-dates",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Midterm exam on Oct 29 during lecture time in class\nFinal exam\non Fri, Dec 12 at 8:00-10:00am for Lecture A in the same classroom (ICS 174)\non Mon, Dec 8 at 1:30-3:30pm for Lecture B in the same classroom (ICS 174)"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html",
+    "href": "specific-content/index/01c-week-workflow.html",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers"
+  },
+  {
+    "objectID": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "href": "specific-content/index/01c-week-workflow.html#typical-weekly-workflow",
+    "title": "Stats 4 CS",
+    "section": "",
+    "text": "Monday am | Lecture A with Dr. Dogucu \n         Monday pm | Lecture B with Dr. Dogucu\n         Monday 2:30 - 3:30 pm  | Dr. Dogucu holds office hours \n             Monday 4:00 - 6:00 pm  | Collaboration hours with peers \n         Tuesday 1:30 - 2:30 pm  | Peter holds office hours \n          Tuesday pm  | Discussion A sections with Lynn \n         Wednesday 2:00 - 3:00 pm  | Peter holds office hours \n         Thursday 3:00 - 4:00 pm  | Lynn holds office hours \n          Thursday pm  | Discussion B sections with Peter \n          Friday 3:00 - 4:00 pm  | Lynn holds office hours \n         Friday 4:00 - 6:00 pm  | Collaboration hours with peers"
   }
 ]
