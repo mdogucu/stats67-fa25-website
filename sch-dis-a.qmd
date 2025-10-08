@@ -26,7 +26,8 @@ toc: true
     <td> Summarizing Data and Study Design &nbsp; &nbsp; </td>
     <td></td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/2disa-study-prob.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a></td>
+            title="External Link to Slides" target = "_blank"></i></a>
+            <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/2disa-study-prob-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
   
 
