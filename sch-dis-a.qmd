@@ -51,7 +51,8 @@ toc: true
   <tr>
     <td><input type="checkbox" />Oct 28</td>
     <td> Continuous Distributions and Midterm Review &nbsp; &nbsp; </td>
-    <td></td>
+    <td><a href="https://docs.google.com/presentation/d/1XhZwyuECilOtk5HQqyLgw2LasBefCBfPLjrIheMyEK0/edit?usp=sharing" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/5disa-continuous-distr.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a></td>
   </tr>
