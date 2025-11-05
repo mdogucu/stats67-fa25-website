@@ -82,6 +82,15 @@
     <td></td>
   </tr>
   
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Midterm Solutions &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://canvas.eee.uci.edu/courses/76405/files?preview=33105761" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to Canvas" target = "_blank"></i></td>
+    <td></td>
+  </tr>
+  
   
     
         
