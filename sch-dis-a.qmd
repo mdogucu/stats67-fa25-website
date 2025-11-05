@@ -66,5 +66,13 @@ toc: true
             title="Download Quarto File" target = "_blank"></i></a>
             <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/6disa-stat-inf-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
+  
+  <tr>
+    <td><input type="checkbox" />Nov 11</td>
+    <td> Single Proportions and Difference Between 2 Proportions &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disa-single-diff-props.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="Download Quarto File" target = "_blank"></i></a></td>
+  </tr>
         
 </table>
