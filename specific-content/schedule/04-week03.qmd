@@ -40,17 +40,6 @@
   
   <tr>
     <td><input type="checkbox" /></td>
-    <td> Discussion: Discrete Random Variables and Distributions &nbsp; &nbsp; </td>
-    <td> </td>
-    <td> <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/3d-discrete-rv.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
-            title="External Link to Slides" target = "_blank"></i></a></td>
-    <td></td>
-  </tr>
-  
-  
-  
-  <tr>
-    <td><input type="checkbox" /></td>
     <td> Reading </td>
     <td>Sections 4.2, 4.3, and 4.5</td>
     <td><a href="https://leanpub.com/os" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
