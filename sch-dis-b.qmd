@@ -61,7 +61,16 @@ toc: true
     <td></td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/6disb-single-prop.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a>
-        <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/4disb-continuous-rv-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
+        <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/6disb-single-prop-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
+  </tr>  
+  
+  <tr>
+    <td><input type="checkbox" />Nov 13</td>
+    <td> Difference of Two Proportions&nbsp; &nbsp; </td>
+    <td><a href="https://uci.zoom.us/rec/share/NIAV7RBcFapwSaJqQnumcUUY_U4kEfd_Uhc1M3anWoT0flbF57YYjZ31-RWi8Eeu.4WjGWqvyOCZF9LNq?startTime=1763059878000" target ="_blank" title="Link to Zoom Recording"> Video recording </a></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disb-diff-props.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+        <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disb-diff-props-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>  
   
 
