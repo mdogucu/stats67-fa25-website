@@ -69,9 +69,18 @@ toc: true
   
   <tr>
     <td><input type="checkbox" /> Nov 11 </td>
-    <td> Single Proportions and Difference Between 2 Proportions &nbsp; &nbsp; </td>
-    <td> <mark> NO DISCUSSION TODAY: Veteran's day holiday</mark> <br> Instead here is a <a href="https://urldefense.com/v3/__https://uci.zoom.us/rec/share/IaZOLKxdct5EB-q12UxvkGBjMTt55SC2CuR3S_s36yeFB7kTDGvPzdj0ArnA6Scs.3ZfRJqM6RjUVkglf__;!!CzAuKJ42GuquVTTmVmPViYEvSg!JJb9QWGhSdgSqqKH0ZNKih99EkoaBEk_nC2nYS0-TIJvR-d9uyYbX-sHR8Bkd-YUYvML6lw0VXkfv3g$" target ="_blank" title="Link to Zoom Recording"> recording </a> of Lynn going over Single Proportions. Peter's recording for 2 Proportions is <a href="https://uci.zoom.us/rec/share/NIAV7RBcFapwSaJqQnumcUUY_U4kEfd_Uhc1M3anWoT0flbF57YYjZ31-RWi8Eeu.4WjGWqvyOCZF9LNq?startTime=1763059878000" target ="_blank" title="Link to Zoom Recording"> here </a>.</td>
+    <td> Inference for a Single Proportion and Difference Between 2 Proportions &nbsp; &nbsp; </td>
+    <td> <mark> NO DISCUSSION TODAY: Veteran's day holiday</mark> <br> Instead here is a <a href="https://urldefense.com/v3/__https://uci.zoom.us/rec/share/IaZOLKxdct5EB-q12UxvkGBjMTt55SC2CuR3S_s36yeFB7kTDGvPzdj0ArnA6Scs.3ZfRJqM6RjUVkglf__;!!CzAuKJ42GuquVTTmVmPViYEvSg!JJb9QWGhSdgSqqKH0ZNKih99EkoaBEk_nC2nYS0-TIJvR-d9uyYbX-sHR8Bkd-YUYvML6lw0VXkfv3g$" target ="_blank" title="Link to Zoom Recording"> recording </a> of Lynn going over Single Proportions. Peter's recording for 2 Proportions is <a href="https://uci.zoom.us/rec/share/NIAV7RBcFapwSaJqQnumcUUY_U4kEfd_Uhc1M3anWoT0flbF57YYjZ31-RWi8Eeu.4WjGWqvyOCZF9LNq?startTime=1763059878000" target ="_blank" title="Link to Zoom Recording"> here</a>.</td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disa-single-diff-props.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="Download Quarto File" target = "_blank"></i></a>
+            <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disa-single-diff-props-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" />Nov 18</td>
+    <td> Inference for Difference Between 2 Proportions and for a Single Mean &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disa-diff-props-single-mean.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="Download Quarto File" target = "_blank"></i></a></td>
   </tr>
         
