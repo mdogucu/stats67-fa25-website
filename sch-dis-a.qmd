@@ -81,7 +81,8 @@ toc: true
     <td> Inference for Difference Between 2 Proportions and for a Single Mean &nbsp; &nbsp; </td>
     <td></td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disa-diff-props-single-mean.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
-            title="Download Quarto File" target = "_blank"></i></a></td>
+            title="Download Quarto File" target = "_blank"></i></a>
+            <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disa-diff-props-single-mean-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
         
 </table>
