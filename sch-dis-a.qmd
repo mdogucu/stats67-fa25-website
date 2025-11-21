@@ -84,5 +84,13 @@ toc: true
             title="Download Quarto File" target = "_blank"></i></a>
             <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disa-diff-props-single-mean-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
+  
+  <tr>
+    <td><input type="checkbox" />Nov 25</td>
+    <td> Inference for Difference Between 2 Means and Simple Linear Regression &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disa-diff-mean-simple-linear-regression.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="Download Quarto File" target = "_blank"></i></a></td>
+  </tr>
         
 </table>
