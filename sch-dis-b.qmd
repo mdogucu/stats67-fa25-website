@@ -73,6 +73,14 @@ toc: true
         <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/7disb-diff-props-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>  
   
+  <tr>
+    <td><input type="checkbox" />Nov 20</td>
+    <td> Single Mean and Difference of Two Means&nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disb-single-mean-diff-mean.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+        <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disb-single-mean-diff-mean-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
+  </tr>  
 
   
         
