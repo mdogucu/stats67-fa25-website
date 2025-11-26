@@ -88,9 +88,10 @@ toc: true
   <tr>
     <td><input type="checkbox" />Nov 25</td>
     <td> Inference for Difference Between 2 Means and Simple Linear Regression &nbsp; &nbsp; </td>
-    <td></td>
+    <td> <a href="https://urldefense.com/v3/__https://uci.zoom.us/rec/share/RX_5LvLdMdOxJDPa8rBThlDT9LCi9t8vgCbxn1ym5RaKbolbHK4CEOamcbSJvISy.r3Bdc9vhSMEZrjZr__;!!CzAuKJ42GuquVTTmVmPViYEvSg!MPONn_VNk8pJO_g9-Ejsaidobm54siYkhBvWgOf0zsaO2HqPkI5eysI6NIbJGYDRFNwhzbTXBgiime0$" target ="_blank" title="Link to Zoom Recording"> Recording </a> </td>
     <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disa-diff-mean-simple-linear-regression.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
-            title="Download Quarto File" target = "_blank"></i></a></td>
+            title="Download Quarto File" target = "_blank"></i></a>
+            <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disa-diff-mean-simple-linear-regression-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
         
 </table>
