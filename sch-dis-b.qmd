@@ -82,6 +82,13 @@ toc: true
         <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/8disb-single-mean-diff-mean-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>  
 
-  
+  <tr>
+    <td><input type="checkbox" />Nov 27</td>
+    <td> Simple Linear Regression and Multiple Linear Regression&nbsp; &nbsp; </td>
+    <td> No Discussion (Thanksgiving) - Recording to be uploaded</td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disb-linear-reg-multiple-linear-reg.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+        <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disb-linear-reg-multiple-linear-reg-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
+  </tr>  
         
 </table>
