@@ -93,5 +93,13 @@ toc: true
             title="Download Quarto File" target = "_blank"></i></a>
             <a href="https://mdogucu.github.io/stats67-fa25-starter-codes/9disa-diff-mean-simple-linear-regression-TA-notes.qmd" download title="TA notes"> TA notes</a></td>
   </tr>
+  
+  <tr>
+    <td><input type="checkbox" />Dec 2</td>
+    <td> Multiple Linear Regression and Maximum Likelihood Estimation &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats67-fa25-starter-codes/10disa-multiple-linear-reg-maximum-likelihood.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="Download Quarto File" target = "_blank"></i></a></td>
+  </tr>
         
 </table>
